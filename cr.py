@@ -24,5 +24,5 @@ df = pd.read_html(str(table))[0]
 print(df.head())
 
 # 저장 (선택)
-df.to_csv('ryu_hyun_jin_day_by_day.csv', index=False)
 
+df.to_csv('/Users/joyongho/Desktop/크롤링/s.csv', index=False)
