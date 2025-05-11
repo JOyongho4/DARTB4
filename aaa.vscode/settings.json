@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/joyongho/TIL/venv/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.kernelsFilter": ["Python (tilvenv)"]
+  }
+  
